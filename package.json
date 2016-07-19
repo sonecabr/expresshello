@@ -1,0 +1,19 @@
+{
+  "name": "expresshello",
+  "version": "1.0.0",
+  "description": "simple express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonecabr/expresshello.git"
+  },
+  "author": "soneca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonecabr/expresshello/issues"
+  },
+  "homepage": "https://github.com/sonecabr/expresshello#readme"
+}
